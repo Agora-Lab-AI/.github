@@ -1,5 +1,3 @@
-[![Multi-Modality](agorabanner.png)](https://discord.gg/t5QxhyvUG9)
-
 # 🌌 Agora: Advancing Humanity Through Open-Source Multi-Modality AI Research 🌠
 
 [![Join Agora Discord](https://img.shields.io/discord/123456789012345678?color=blue&label=Join%20Agora%20Discord&style=for-the-badge)](https://discord.gg/t5QxhyvUG9)
