@@ -84,3 +84,9 @@ Love what we're doing at Agora? Help us by spreading the word about our mission 
 Or simply share this link with your friends: https://github.com/Agora-X
 
 Thank you for supporting Agora! 💖
+
+
+## Accelerate Backlog
+Help us accelerate our backlog by supporting us financially! Note, we're an open source non-profit and so all the revenue we generate is through donations at the moment ;)
+
+<a href="https://polar.sh/kyegomez"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=kyegomez" /></a>
